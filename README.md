@@ -1,8 +1,11 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # Raptor
- Jaffa's Journey: Extinction
-For DES203 
+ Jaffa's Journey: Extinction For DES203 
+
+A very special and very famous orange dino goes on an adventure to save all of dino-kind.
+
+
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
