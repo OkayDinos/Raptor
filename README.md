@@ -5,6 +5,8 @@
 
 A very special and very famous orange dino goes on an adventure to save all of dino-kind.
 
+Released on itch.io:
+https://paradox-glitch.itch.io/jaffa
 
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
